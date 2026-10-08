@@ -1,0 +1,7 @@
+[
+  "test.py::test_empty_name",
+  "test.py::test_marks_above_limit",
+  "test.py::test_negative_marks",
+  "test.py::test_valid_marks",
+  "test.py::test_valid_name"
+]

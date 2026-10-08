@@ -1,0 +1,12 @@
+[
+  "main.py::test_grade_a",
+  "main.py::test_grade_b",
+  "main.py::test_grade_c",
+  "main.py::test_grade_d",
+  "main.py::test_grade_f",
+  "test.py::test_grade_a",
+  "test.py::test_grade_b",
+  "test.py::test_grade_c",
+  "test.py::test_grade_d",
+  "test.py::test_grade_f"
+]
